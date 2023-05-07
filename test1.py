@@ -1,2 +1,7 @@
-print("hello to GIT world")
+hungry = input("are you hungry")
+if hungry == "yes":
+    print("eat samosa")
+else:
+    print("do ur work")
+
 
